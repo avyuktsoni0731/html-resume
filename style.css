@@ -1,0 +1,77 @@
+html{
+    /* background-color: #FAE3D9; */
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+#banner{
+    text-align: center;
+}
+
+.headings{
+    color:#222831;
+    margin-left: 20px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+}
+
+#links{
+    text-align: right;
+}
+
+#linkedin-png{
+    width:55px;
+}
+
+#google-cloud-png{
+    width: 50px;
+}
+
+.content-block{
+    /* background-color:#00ADB5; */
+    border-radius: 20px;
+}
+
+.text-content{
+    color:#252A34;
+    font-family: 'Inclusive Sans', sans-serif;
+    margin-left: 30px;
+    font-size: 18px;
+}
+
+#professional-heading-id{
+    text-align: center;
+    color:#222831;
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+}
+
+#name-id{
+    font-family: 'Cairo Play', sans-serif;
+    font-size: 70px;
+    margin-bottom: -10px;
+    margin-top: -40px;
+}
+
+#profile-picture{
+    width: 170px;
+}
+
+#title-id{
+    font-family: 'Cairo Play', sans-serif;
+    margin-top: -30px;
+}
+
+.hrs{
+    border: 2px dashed #424874;
+    border-radius: 5px;
+}
+
+#professional-summary-text{
+    text-align: center;
+}
+
+#primary-hr{
+    border: 3px solid #424874;
+    border-radius: 5px;
+    width: 300px;
+    margin-top: -20px;
+}
