@@ -85,3 +85,54 @@ html{
 #footer-hr{
     margin-left: -30px;
 }
+
+@media (max-width: 420px){
+    #banner{
+        text-align: center;
+    }
+
+    #profile-picture{
+        width: 140px;
+    }
+
+    #name-id{
+        font-size: 40px;
+        margin-top: -10px;
+    }
+
+    #title-id{
+        font-size: 20px;
+        margin-top: -20px;
+    }
+
+    #primary-hr{
+        width:240px;
+    }
+
+    .headings{
+        font-size: 20px;
+    }
+
+    #professional-heading-id{
+        font-size: 20px;
+    }
+
+    .text-content{
+        font-size: 16px;
+        margin-left: 0px;
+    }
+
+    #linkedin-png{
+        width: 50px;
+    }
+
+    #google-cloud-png{
+        width: 43px;
+        margin-left: -10px;
+    }
+
+    #github-png{
+        width: 27px;
+        margin-left: -10px;
+    }
+}
